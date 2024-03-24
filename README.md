@@ -7,4 +7,5 @@
 ### Yapılacaklar
 
 1 - Set Location sayfasının tasarımının kodlanması
+
 2- Sayfa açıldığında haritada mevcut konuma yönlendirilmesi
